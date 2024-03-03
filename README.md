@@ -11,6 +11,8 @@ A Documentação Do PocketMine API 2.0.0 modificado by Sr_abelha
   </a>
 </div>
 
+### Clique [Aqui](../../wiki/).
+
 ## Discord:
 
 `@abelha7w7`
