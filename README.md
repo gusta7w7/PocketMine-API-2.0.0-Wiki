@@ -11,7 +11,7 @@ A Documentação Do PocketMine API 2.0.0 modificado by Sr_abelha
   </a>
 </div>
 
-### Clique [Aqui](https://github.com/gusta7w7/PocketMine-API-2.0.0-Wiki/wiki/Documenta%C3%A7%C3%A3o-PocketMine%E2%80%90MP-2.0.0-(Mcpe-0.14.x-0.15.x)) Para Ver a Wiki.
+### Clique [Aqui](https://github.com/gusta7w7/PocketMine-API-2.0.0-Wiki/wiki) Para Ver a Wiki.
 
    ㅤㅤㅤ
 
